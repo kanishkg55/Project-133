@@ -1,0 +1,18 @@
+body{
+    background: rgb(99,255,0);
+    background: linear-gradient(90deg, rgba(99,255,0,1) 6%, rgba(255,239,0,1) 28%, rgba(186,42,42,1) 51%, rgba(39,182,171,1) 74%, rgba(166,0,255,1) 94%);
+    text-align: center;
+}
+
+h1{
+    background-color:#ffe4c4;
+    color: darkblue;
+    font-size: 12px;
+}
+
+a{
+    font-size: 45px;
+    border-radius: 15px;
+    background-color: blanchedalmond;
+    color: black;
+}
